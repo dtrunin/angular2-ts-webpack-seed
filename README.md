@@ -1,1 +1,1 @@
-# angular2-ts-webpack-seed
+# angular2 ts webpack seed
