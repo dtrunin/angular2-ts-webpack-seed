@@ -1,0 +1,17 @@
+{
+    "name": "angular2-ts-webpack-seed",
+    "version": "1.0.0",
+    "description": "",
+    "dependencies": {},
+    "devDependencies": {
+        "awesome-typescript-loader": "^2.2.4",
+        "typescript": "^2.0.7",
+        "webpack": "^1.13.3"
+    },
+    "scripts": {
+        "tsc": "tsc",
+        "webpack": "webpack --display-error-details"
+    },
+    "author": "Dmitry Trunin",
+    "license": "ISC"
+}
